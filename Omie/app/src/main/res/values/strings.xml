@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Omie</string>
+    <string name="error_input_client_name">Por favor preencha o nome do cliente</string>
+    <string name="error_empty_products">Por favor insira pelo menos 1 produto</string>
+    <string name="error_input_name_product">Por favor preencha o nome do produto</string>
+    <string name="error_input_quantity">Por favor preencha a quantidade de produtos</string>
+    <string name="error_quantity_string">Por favor preencha a quantidade somente com números</string>
+    <string name="error_product_value_per_unit">Por favor preencha o valor unitário do produto</string>
+    <string name="error_product_value_per_unit_format">Por favor preencha o valor unitário do produto no formato correto</string>
+    <string name="quantity">Quantidade</string>
+    <string name="value_unit">Valor unitário</string>
+    <string name="valor_total">Valor total: R$ %1$s</string>
+    <string name="quantity_total_itens">"Quantidade total de items: "</string>
+    <string name="value_total_order">"Valor total do pedido: "</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="save">SALVAR</string>
+    <string name="add">INCLUIR</string>
+    <string name="product">Produto</string>
+    <string name="add_new_product">ADICIONAR NOVO PRODUTO</string>
+    <string name="name_client">Nome do Cliente</string>
+    <string name="client">Cliente</string>
+    <string name="number_order">Número do pedido #%1$s</string>
+    <string name="currency">R$ %1$s</string>
+    <string name="total">Total</string>
+    <string name="price">Preço</string>
+    <string name="qtd">Qtd</string>
+    <string name="name">Nome</string>
+    <string name="order_title">Fazer uma venda</string>
+    <string name="product_added">Produto incluido</string>
+    <string name="list_orders">Lista de Pedidos</string>
+    <string name="make_order">Fazer uma venda</string>
+    <string name="total_orders">"Total de vendas: "</string>
+</resources>
